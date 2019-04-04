@@ -1,0 +1,17 @@
+{
+  "name": "discordjstemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^7.0.0",
+    "eslint": "^5.16.0",
+    "npm": "^6.9.0",
+    "winston": "^3.2.1"
+  }
+}
